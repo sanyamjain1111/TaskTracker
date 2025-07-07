@@ -2,8 +2,6 @@
 
 A modern, feature-rich task management application built with React.js, designed to help users organize and track their daily tasks with professional-grade functionality and stunning UI/UX.
 
-![Task Tracker Banner](https://via.placeholder.com/1200x400/3B82F6/FFFFFF?text=Advanced+Task+Tracker)
-
 ## 🌟 Live Demo
 
 🔗 **[Live Application](https://your-deployed-app-url.netlify.app)**
